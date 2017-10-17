@@ -1,0 +1,17 @@
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\MainWindow.g.cs
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\App.g.cs
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp_MarkupCompile.cache
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp_MarkupCompile.lref
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\UserControls\DropFileReadPanel.baml
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\UserControls\DropFileReadPanel.g.cs
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\bin\Debug\DropFileReadApp.exe.config
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\bin\Debug\DropFileReadApp.exe
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\bin\Debug\DropFileReadApp.pdb
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\MainWindow.baml
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.g.resources
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.Properties.Resources.resources
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.csproj.GenerateResource.Cache
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.csproj.CoreCompileInputs.cache
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.exe
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\DropFileReadApp.pdb
+C:\Users\maasa\Documents\Visual Studio 2017\Projects\DropFileReadApp\DropFileReadApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
